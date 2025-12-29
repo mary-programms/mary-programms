@@ -42,13 +42,13 @@ I currently focus on:
 
 ### 🚀 Featured Projects
 - 📝 **TBD** — To be explained
-  👉 https://github.com/mary-programms/ 
+- 👉 https://github.com/mary-programms/ 
 
-- 🌐 **TBD** — To be explained 
-  👉 https://github.com/mary-programms/
+- 🌐 **TBD** — To be explained
+- 👉 https://github.com/mary-programms/
 
-- 🎮 **TBD** — To be explained  
-  👉 https://github.com/mary-programms/  
+- 🎮 **TBD** — To be explained
+- 👉 https://github.com/mary-programms/  
 
 ---
 
