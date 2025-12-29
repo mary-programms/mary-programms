@@ -19,8 +19,8 @@ Outside of code, you’ll usually find me:
 - **2019** — Degree in **Marketing**  
 - **2021** — Post-Graduation in **Strategic Marketing**  
 - **2022** — **Frontend Development** (Codecademy)  
-- **2023** — **Web Design**  
-- **2024 →** Continuous learning in **React, TypeScript & creative development**
+- **2023** — **Web Design** (LSD)  
+- **2024 →** Continuous learning in **React, Three.js, GSAP & creative development**
 
 ---
 
@@ -29,7 +29,7 @@ Outside of code, you’ll usually find me:
   *YDigital Media* — 07/2019 - 09/2021
 - **Frontend Developer**  
   *YDigital Media* — 05/2022 - 01/2024
-- **eLearning Experience Developer**
+- **eLearning Experience Developer**  
   *ISQe* - 02/2024 - current
 
 I currently focus on:
@@ -70,7 +70,6 @@ I currently focus on:
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 </div>
 
 ---
